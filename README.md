@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepakN-vit
+- 👋 Hi, I’m @DeepakN
 - 👀 I’m interested in doing AI related job
 - 🌱 I’m currently learning btech[AI/ML]
 - 💞️ I’m looking to collaborate on any MNC company that helps to build my carrer
