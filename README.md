@@ -70,12 +70,14 @@
   <img src="https://leetcard.jacoblin.cool/Deepak_Nagarajan?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </p>
 
+---
+---
+## 📈 GeeksforGeeks Profile
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/nagarajankwnm1/">
-    <img src="https://gfgstatscard.vercel.app/api?username=nagarajankwnm1&theme=dark" alt="GeeksforGeeks Stats"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile"/>
   </a>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
