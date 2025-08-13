@@ -80,10 +80,10 @@
 
 ---
 
-## 📈 GeeksforGeeks Profile
+## 📈 GeeksforGeeks Stats
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/nagarajankwnm1/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
+    <img src="https://gfgstatscard.vercel.app/api?username=nagarajankwnm1&theme=dark" alt="GeeksforGeeks Stats" />
   </a>
 </p>
 
