@@ -70,8 +70,6 @@
   <img src="https://leetcard.jacoblin.cool/Deepak_Nagarajan?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </p>
 
----
----
 ## 📈 GeeksforGeeks Profile
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/nagarajankwnm1/">
