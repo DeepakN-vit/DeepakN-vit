@@ -67,15 +67,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakN&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakN&theme=tokyonight" alt="GitHub streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeepakN-vit&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakN-vit&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
 
 ## 🏆 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/deepakN?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Deepak_Nagarajan?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
