@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Deepak N</h1>
-<h3 align="center">🚀 Machine Learning Engineer | AI/ML & Web Developer | Final-year B.Tech AIML at VIT-AP 🚀</h3>
+<h3 align="center">🚀 Machine Learning Engineer | AI/ML & Web Developer | Final-year B.Tech AIML at VIT 🚀</h3>
 
 <!-- ANIMATION -->
 <p align="center">
